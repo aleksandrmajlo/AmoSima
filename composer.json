@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sima-land/api-php-client": "~3",
+        "dotzero/amocrm": "^0.3.28"
+    }
+}

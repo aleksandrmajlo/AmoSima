@@ -1,0 +1,40 @@
+.my-form{
+  display: flex;
+  justify-content: center;
+   width: 100%;
+  margin-top: 20px;
+  .my-form-button {
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    font-weight: bold;
+    background-color: rgb(76, 139, 247);
+    color: rgb(255, 255, 255);
+    border-color: rgb(76, 139, 247);
+  }
+}
+.smscustomfunnel-form{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+  .smscustomfunnel-button {
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    font-weight: bold;
+    background-color: rgb(76, 139, 247);
+    color: rgb(255, 255, 255);
+    border-color: rgb(76, 139, 247);
+  }
+}
+
+
+
+#widgets_block{
+  display: block !important;
+}
+
+body.MyLoader{
+  cursor: wait;
+}
